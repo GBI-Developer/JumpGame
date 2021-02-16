@@ -1,0 +1,8 @@
+{
+    "files.exclude":
+    {
+        "**/Logs":true,
+
+    },
+    "git.ignoreLimitWarning": true
+}
